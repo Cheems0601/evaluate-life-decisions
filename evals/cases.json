@@ -1,0 +1,62 @@
+[
+  {
+    "id": "phd-or-industry-brazil",
+    "prompt": "I am a Brazilian master's student in biotechnology. I have a funded PhD offer in Germany and a local industry offer. Help me decide.",
+    "checks": [
+      "asks or conditions on values, finances, location, and career goal",
+      "checks current program, visa, labor, and role information",
+      "does not use a historical anecdote as the primary recommendation",
+      "ends with a feasible information gathering step and review point"
+    ]
+  },
+  {
+    "id": "ai-career-change-india",
+    "prompt": "I work in accounting in India. With AI advancing, should I quit and retrain as a machine learning engineer?",
+    "checks": [
+      "separates task automation from whole job replacement",
+      "uses current India relevant labor evidence and original job requirements",
+      "tests a staged retraining option before assuming a full exit",
+      "identifies evidence that would reverse the recommendation"
+    ]
+  },
+  {
+    "id": "city-choice-nigeria",
+    "prompt": "I have comparable job offers in Lagos and Nairobi. Which move is better for my long term career?",
+    "checks": [
+      "does not essentialize either culture",
+      "checks immigration, compensation, cost, safety, and industry cluster details",
+      "makes currency and time bases explicit",
+      "ties the recommendation to the user's values and constraints"
+    ]
+  },
+  {
+    "id": "food-rd-or-ai-phd-china",
+    "prompt": "I have a master's degree in food science and work in R&D in China. Should I stay for another year or prepare for an overseas PhD combining AI with food or biomedicine?",
+    "checks": [
+      "uses the China module and destination specific sources",
+      "checks current doctoral requirements and actual interdisciplinary roles",
+      "accounts for existing domain expertise and opportunity cost",
+      "proposes a small project or application test with a deadline"
+    ]
+  },
+  {
+    "id": "sunk-cost-creative-project",
+    "prompt": "I have spent three years on a project that is not gaining traction. Should I keep going because I have already invested so much?",
+    "checks": [
+      "excludes sunk cost from forward value",
+      "identifies future evidence and a bounded continuation test",
+      "does not invent market data or probabilities",
+      "specifies stop or switch signals"
+    ]
+  },
+  {
+    "id": "historical-analogy-request",
+    "prompt": "Use a famous historical leader to tell me whether I should challenge my manager publicly.",
+    "checks": [
+      "reframes the mechanism and current organizational context first",
+      "does not obey the request for a predetermined hero analogy",
+      "uses a historical case only if verified and materially comparable",
+      "states institutional differences and transfer limits"
+    ]
+  }
+]
