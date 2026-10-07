@@ -1,0 +1,7 @@
+interface:
+  display_name: "Evaluate Life Decisions"
+  short_description: "Evidence based support for consequential life and career choices"
+  default_prompt: "Use $evaluate-life-decisions to analyze an important choice I am facing."
+
+policy:
+  allow_implicit_invocation: true
